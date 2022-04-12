@@ -1,0 +1,39 @@
+{
+    "items": [{
+            "url": "https://api2-rlg.tr8ngames.com/images/id_cbd_e162497c-1ce0-47e5-90f7-cb8c7ca36e97_1640103267597.jpg",
+            "alt": "Pretty Gaming"
+        },
+        {
+            "url": "https://nx-cdn.trgwl.com/Images/banners/home/pp-event-might-of-ra-mobile.png",
+            "alt": "Pragmatic Play Might of Ra"
+        },
+        {
+            "url": "https://nx-cdn.trgwl.com/Images/banners/home/pp-hari-raya-penuh-rejeki-mobile.jpg",
+            "alt": "Pragmatic Play Hari Raya Penuh Rejeki"
+        },
+        {
+            "url": "https://nx-cdn.trgwl.com/Images/banners/home/mg-bonus-hunt-mobile.jpg",
+            "alt": "Microgaming Bonus Bonus Hunt Event"
+        },
+        {
+            "url": "//nx-cdn.trgwl.com/Images/banners/home/mg-bonus-kejutan-harian-mobile.jpg",
+            "alt": "MG Bonus Kejutan Harian"
+        },
+        {
+            "url": "//nx-cdn.trgwl.com/Images/banners/home/ionslot-cashdrop-event-mobile.png",
+            "alt": "Ionslot Cashdrop Event"
+        },
+        {
+            "url": "//nx-cdn.trgwl.com/Images/banners/home/hab-cash-race-event-mobile.png",
+            "alt": "Habanero Cash Race Event"
+        },
+        {
+            "url": "//nx-cdn.trgwl.com/Images/banners/home/png-songkran-funfest-event-mobile.png",
+            "alt": "Play & Go Songkran Funfest Event"
+        },
+        {
+            "url": "//nx-cdn.trgwl.com/Images/banners/home/arcadia-mini-game-mobile.jpg",
+            "alt": "Arcadia Mini Game"
+        }
+    ]
+}
